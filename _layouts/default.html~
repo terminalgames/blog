@@ -1,0 +1,10 @@
+---
+layout: base
+---
+<head>
+  <link rel="alternate" type="application/rss+xml" title="terminal games RSS Feed" href="/feed.xml" />
+<body>
+    {% include header.html %}
+    <div class="mui-container">
+    {{ content }}
+    </div>
