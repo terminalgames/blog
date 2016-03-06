@@ -20,8 +20,8 @@ sass:
 links:
  # facebook: brijeshb42
  # twitter: brijeshb42
-  email: terminalgames2@gmail.com
- # github: brijeshb42/bitwiser-material/
+  email: terminalgames.github.io@gmail.com
+  github: terminalgames
 exclude:
   - bower_components
   - README.md
